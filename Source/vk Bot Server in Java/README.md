@@ -1,5 +1,7 @@
 # vk Bot Server in Java
 
+- vk Community with Chatbot: https://vk.com/sap.help
+
 ### Current QA  working in Bot:
 
 User: Hi there! OR Hi OR Hello OR Hi there
